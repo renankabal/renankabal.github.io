@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Ficha médica
 
-You can use the [editor on GitHub](https://github.com/renankabal/renankabal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nome: **Renan Jhonatha Costa da trindade**
+Data de nascimento 21/09/2020
+CPF nº 00364897279
+Endereço Rua Maria da Silva Xavier, nº 3108, Bairro Novo Horizonte, Macapá/AP.
+Não doador de orgãos
+`Grupo sangíneo )+`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contatos de segurança
 
-### Markdown
+Esposa: 96 99178-6379 - **Dayanne Rodrigues**
+Pai: 96 99912-1220 - **Francisco Trindade**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Alergias
 
+
+### Alergias a medicamentos
+
+Segue os medicamentos que eu possuo `alergia severa`
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renankabal/renankabal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
