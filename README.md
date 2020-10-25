@@ -1,12 +1,16 @@
 ## FICHA MÉDICA
 
-`Grupo sanguíneo O+`
+<img src="https://github.com/renankabal/renankabal.github.io/blob/main/fotos/perfil1.jpeg" width="50%"/>
 
 Nome: **Renan Jhonatha Costa da trindade**
+
+´Grupo sanguíneo O+´ 
 
 Data de nascimento 21/09/2020
 
 CPF nº 00364897279
+
+Peso atual: 85kg
 
 Endereço Rua Maria da Silva Xavier, nº 3108, Bairro Novo Horizonte, Macapá/AP.
 
