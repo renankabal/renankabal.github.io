@@ -4,7 +4,7 @@
 
 Nome: **Renan Jhonatha Costa da trindade**
 
-´Grupo sanguíneo O+´ 
+"Grupo sanguíneo O+"
 
 Data de nascimento 21/09/2020
 
@@ -35,7 +35,7 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 ### ALERGIAS A MEDICAMENTOS
 
-`DEVEM evitar:` os medicamentos que contenham anti-inflamatórios não esteroidais.
+"DEVEM evitar:" os medicamentos que contenham anti-inflamatórios não esteroidais.
 
 ```markdown
 
@@ -59,7 +59,7 @@ c) Remédios compostos com anti-inflamatórios não esterodais
 
 Caso chegue na emergência com manifestações dermatológicas associadas a manifestação respiratórias e/ou cardiovasculares e/ou gastrintestinais seguir conduta abaixo:
 
-> Adenalina 0,01 ml x peso = no máx 0,5 ml IM (INTRAMUSCULAR) - REPETIR ATÉ 2 VEZES NO INTERVALO DE 10 MINUTOS
+> "Adenalina 0,01 ml x peso = no máx 0,5 ml IM (INTRAMUSCULAR) - REPETIR ATÉ 2 VEZES NO INTERVALO DE 10 MINUTOS"
 
 - Administração de adrenalina se faz essencial no curso da anafilaxia, já que alem de reverter o quadro clínico, previne a reação tardia da anafilaxia, que pode ocorrer em até 48h.
 
