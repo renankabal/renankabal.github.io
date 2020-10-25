@@ -68,7 +68,7 @@ Caso chegue na emergência com manifestações dermatológicas associadas a mani
 
 > "Adenalina 0,01 ml x peso = no máx 0,5 ml IM (INTRAMUSCULAR) - REPETIR ATÉ 2 VEZES NO INTERVALO DE 10 MINUTOS"
 
-- Administração de adrenalina se faz essencial no curso da anafilaxia, já que alem de reverter o quadro clínico, previne a reação tardia da anafilaxia, que pode ocorrer em até 48h.
+<span style="color:red;font-weight: bold;">Administração de adrenalina se faz essencial no curso da anafilaxia, já que alem de reverter o quadro clínico, previne a reação tardia da anafilaxia, que pode ocorrer em até 48h.</span>
 
 
 <img src="https://raw.githubusercontent.com/renankabal/renankabal.github.io/main/fotos/assinatura.jpeg" width="70%"/>
