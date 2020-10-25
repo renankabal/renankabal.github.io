@@ -31,19 +31,24 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 ### ALERGIAS A MEDICAMENTOS
 
-`DEVEM evitar:` os medicamentos que contenham antiinflamatórios não esteroidais.
+`DEVEM evitar:` os medicamentos que contenham anti-inflamatórios não esteroidais.
 
 ```markdown
 
-- Bulleted
-- List
-
+a) Indicados com anti-inflamatórios, antitérmicos, analgésivos
+b) Pertecentes a diferentes grupos
+	- Salicilatos: Aćido Acetil Salicítico (Aspirina, AAS), Diflusinal, ENO, ENGOV
+	- Pirazolona: Dipirona (Novalgina, Magnopyrol, Benegrip, Coristina), Fenilbutazona
+	- Indometacina (Indocid)
+	- Fenamatos: Ácido Mefenâmico (Ponstan)
+	- Derivados do Ácido Propiônico: Ibuprofen, Cetoprofeno, Naproxeno (Naprozyn)
+	- Piroxicam (Feldene)
+	- Diclofenacos (Voltarem, Cataflam)
+	- Cetoralaco (Toragesic, Toradol)
+c) Remédios compostos com anti-inflamatórios não esterodais
+	- Antigripais: Apracur, Benegrip
+	- Prescritos para dor e cabeça: Cibalena, Coristina, Doril, Neosaldina, Superhist
+	- Prescritos para cólicas: Buscopan composto
+	- Prescritos para "má digestão": Sonrisal, Engov, Alka-Seltzer
 ```
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renankabal/renankabal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
