@@ -4,7 +4,7 @@
 
 Nome: **Renan Jhonatha Costa da trindade**
 
-"Grupo sanguíneo O+"
+<span style="color:red">Grupo sanguíneo O+<span>
 
 Data de nascimento 21/09/2020
 
