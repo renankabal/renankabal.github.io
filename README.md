@@ -28,7 +28,7 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 ### ALERGIAS A MEDICAMENTOS
 
-<span style="color:red;font-weight: bold;">DEVEM evitar:</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
+<span style="color:red;">DEVEM evitar:</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
 
 ```markdown
 
