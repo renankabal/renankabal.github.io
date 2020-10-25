@@ -28,10 +28,12 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 ### ALERGIAS A MEDICAMENTOS
 
-<span style="color:red;">DEVEM evitar:</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
+<span style="color:red;font-weight: bold;">DEVEM evitar:</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
 
 a) Indicados com anti-inflamatórios, antitérmicos, analgésivos
+
 b) Pertecentes a diferentes grupos
+
 	- Salicilatos: Aćido Acetil Salicítico (Aspirina, AAS), Diflusinal, ENO, ENGOV
 	- Pirazolona: Dipirona (Novalgina, Magnopyrol, Benegrip, Coristina), Fenilbutazona
 	- Indometacina (Indocid)
@@ -40,7 +42,9 @@ b) Pertecentes a diferentes grupos
 	- Piroxicam (Feldene)
 	- Diclofenacos (Voltarem, Cataflam)
 	- Cetoralaco (Toragesic, Toradol)
+	
 c) Remédios compostos com anti-inflamatórios não esterodais
+
 	- Antigripais: Apracur, Benegrip
 	- Prescritos para dor e cabeça: Cibalena, Coristina, Doril, Neosaldina, Superhist
 	- Prescritos para cólicas: Buscopan composto
