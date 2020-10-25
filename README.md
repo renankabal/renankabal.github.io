@@ -30,8 +30,6 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 <span style="color:red;">DEVEM evitar:</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
 
-```markdown
-
 a) Indicados com anti-inflamatórios, antitérmicos, analgésivos
 b) Pertecentes a diferentes grupos
 	- Salicilatos: Aćido Acetil Salicítico (Aspirina, AAS), Diflusinal, ENO, ENGOV
@@ -47,7 +45,6 @@ c) Remédios compostos com anti-inflamatórios não esterodais
 	- Prescritos para dor e cabeça: Cibalena, Coristina, Doril, Neosaldina, Superhist
 	- Prescritos para cólicas: Buscopan composto
 	- Prescritos para "má digestão": Sonrisal, Engov, Alka-Seltzer
-```
 
 
 Caso chegue na emergência com manifestações dermatológicas associadas a manifestação respiratórias e/ou cardiovasculares e/ou gastrintestinais seguir conduta abaixo:
