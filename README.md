@@ -1,5 +1,7 @@
 ## FICHA MÉDICA
 
+`Grupo sanguíneo O+`
+
 Nome: **Renan Jhonatha Costa da trindade**
 
 Data de nascimento 21/09/2020
@@ -9,8 +11,6 @@ CPF nº 00364897279
 Endereço Rua Maria da Silva Xavier, nº 3108, Bairro Novo Horizonte, Macapá/AP.
 
 Não doador de orgãos
-
-`Grupo sanguíneo O+`
 
 
 
