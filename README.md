@@ -2,10 +2,15 @@
 
 Nome: **Renan Jhonatha Costa da trindade**
 Data de nascimento 21/09/2020
+
 CPF nº 00364897279
+
 Endereço Rua Maria da Silva Xavier, nº 3108, Bairro Novo Horizonte, Macapá/AP.
+
 Não doador de orgãos
+
 `Grupo sangíneo )+`
+
 
 ### Contatos de segurança
 
@@ -15,7 +20,7 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 ### Alergias
 
 
-### Alergias a medicamentos
+### Alergias a medicamentos 
 
 Segue os medicamentos que eu possuo `alergia severa`
 ```markdown
