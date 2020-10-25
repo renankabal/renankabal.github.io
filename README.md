@@ -4,7 +4,7 @@
 
 Nome: **Renan Jhonatha Costa da trindade**
 
-<span style="color:red">Grupo sanguíneo O+<span>
+<span style="color:red">**Grupo sanguíneo O+**<span>
 
 Data de nascimento 21/09/2020
 
@@ -18,7 +18,6 @@ Não doador de orgãos
 
 
 
-
 ### CONTATOS DE SEGURANÇA
 
 Esposa: 96 99178-6379 - **Dayanne Rodrigues**
@@ -27,15 +26,9 @@ Pai: 96 99912-1220 - **Francisco Trindade**
 
 
 
-
-### ALERGIAS
-
-
-
-
 ### ALERGIAS A MEDICAMENTOS
 
-"DEVEM evitar:" os medicamentos que contenham anti-inflamatórios não esteroidais.
+<span style="color:red">**DEVEM evitar:**</span> os medicamentos que contenham anti-inflamatórios não esteroidais.
 
 ```markdown
 
