@@ -1,6 +1,6 @@
 ## FICHA MÉDICA
 
-<img src="https://raw.githubusercontent.com/renankabal/renankabal.github.io/main/fotos/perfil1.jpeg" width="50%"/>
+<img src="https://raw.githubusercontent.com/renankabal/renankabal.github.io/main/fotos/perfil1.jpeg" width="70%"/>
 
 Nome: **Renan Jhonatha Costa da trindade**
 
