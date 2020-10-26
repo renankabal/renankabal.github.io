@@ -51,8 +51,7 @@ c) Remédios compostos com anti-inflamatórios não esterodais
 	- Prescritos para "má digestão": Sonrisal, Engov, Alka-Seltzer
 
 
-
-###REMÉDIOS QUE GERALMENTE NÃO DÃO REAÇÕES
+### REMÉDIOS QUE GERALMENTE NÃO DÃO REAÇÕES
 
 	- Para dor e febre: Anti-inflamatórios não esteroidais derivados do Para-Aminofenal Acetominofem ou Paracetamol (Tylenol, Dérico, Eraldor, Acatoflen), ou Cloridrato de benzidamina (Benflogim). Dê preferência ao Paracetamol 500 mg, ao invés do de 750 mg.
 	- Para dor forte: Tylex, Sylador, Tramal. Codeína.
